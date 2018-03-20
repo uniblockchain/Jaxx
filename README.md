@@ -1,0 +1,2 @@
+# Jaxx
+Jaxx Bitcoin Wallet
